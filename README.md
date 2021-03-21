@@ -20,7 +20,9 @@ Họ tên: Lê Võ Bảo Trân - MSSV: CH2002020
 3. Làm thế nào để tìm ra được đề tài nghiên cứu?
 
 ## QT06: BẠN MONG ĐỢI HỌC VÀ LÀM ĐƯỢC GÌ SAU KHI HỌC XONG MÔN HỌC NÀY (LEARNING OUTCOMES)
-
+1. Hiểu thêm về các phương pháp luận trong nghiên cứu khoa học.
+2. Hiểu rõ thêm các quy trình nghiên cứu khoa học để ứng dụng vào bài luận văn tốt nghiệp.
+3. Biết thêm nhiều phương pháp/phần mềm/ứng dụng được sử dụng để hỗ trợ trong quá trình nghiên cứu khoa học.
 
 ## QT07: GÓP Ý CHO PHƯƠN PHÁP GIẢNG DẠY
 
