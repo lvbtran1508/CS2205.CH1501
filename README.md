@@ -15,7 +15,9 @@ Họ tên: Lê Võ Bảo Trân - MSSV: CH2002020
 3.	Lê Võ Bảo Trân - CH2002020 – tranlvb.15@grad.uit.edu.vn - Repo: https://github.com/lvbtran1508/CS2205.CH1501
 
 ## QT04: HÃY ĐẶT CÂU HỎI VỀ MÔN HỌC NÀY
-
+1. Phương pháp luận trong nghiên cứu khoa học là gì? Có bao nhiêu loại phương pháp nghiên cứu khoa học trong ngành CNTT?
+2. Tại sao phải nghiên cứu khoa học? Lợi ích và thách thức của nghiên cứu khoa học là gì?
+3. Làm thế nào để tìm ra được đề tài nghiên cứu?
 
 ## QT06: BẠN MONG ĐỢI HỌC VÀ LÀM ĐƯỢC GÌ SAU KHI HỌC XONG MÔN HỌC NÀY (LEARNING OUTCOMES)
 
