@@ -24,7 +24,7 @@ Họ tên: Lê Võ Bảo Trân - MSSV: CH2002020
 2. Hiểu rõ thêm các quy trình nghiên cứu khoa học để ứng dụng vào bài luận văn tốt nghiệp.
 3. Biết thêm nhiều phương pháp/phần mềm/ứng dụng được sử dụng để hỗ trợ trong quá trình nghiên cứu khoa học.
 
-## QT07: GÓP Ý CHO PHƯƠN PHÁP GIẢNG DẠY
+## QT07: GÓP Ý CHO PHƯƠNG PHÁP GIẢNG DẠY
 
 
 ## QT11: TÌM KIẾM GOOGLE NÂNG CAO
