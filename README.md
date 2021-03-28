@@ -30,8 +30,39 @@ Họ tên: Lê Võ Bảo Trân - MSSV: CH2002020
 
 ## QT11: TÌM KIẾM GOOGLE NÂNG CAO
 Ngày nay Google là một công cụ tìm kiếm phổ biển không chỉ ở Việt Nam mà cả thế giới nói chung. Tuy nhiên, để sử dụng hiệu quả công cụ tìm kiếm này thì chúng ta cần tìm hiểu thêm một số các tính năng tìm kiếm nâng cao của Google giúp chúng ta tìm kiếm thông tin hiệu quả hơn.
-1. Tìm kiếm Cụm từ chính xác
-<img width="976" alt="Screen Shot 2020-12-03 at 22 28 27" src="https://user-images.githubusercontent.com/78150336/112752097-91c37080-8ffb-11eb-88ec-a003dc5f44be.png">
+1. Tìm kiếm theo "Cụm từ" chính xác
+
+2. Loại trừ Từ muốn tìm kiếm
+
+3. This OR That
+
+4. Hiển thị các từ trong văn bản
+
+5. Các từ trong Text + Tiêu đề, URL
+
+6. Tìm các từ trong Tiêu đề
+
+7. Các từ trong Title + Text, URL
+
+8. Tìm kiếm Các từ trong URL
+
+9. Cách tìm kiếm trong một trang web
+
+10. Tìm kiếm có liên quan
+ 
+11. Một Trang Kết Nối tới Trang Khác (Page that links to another page)
+
+12. Các từ và từ đồng nghĩa
+
+13. Định nghĩa của từ
+
+14. Thiếu Từ (Missing word)
+
+15. Tin tức trong một Vị trí cụ thể
+
+16. Tìm Loại file tài liệu cụ thể
+
+17. Máy Tính
 
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 
