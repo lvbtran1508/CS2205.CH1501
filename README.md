@@ -25,7 +25,8 @@ Họ tên: Lê Võ Bảo Trân - MSSV: CH2002020
 3. Biết thêm nhiều phương pháp/phần mềm/ứng dụng được sử dụng để hỗ trợ trong quá trình nghiên cứu khoa học.
 
 ## QT07: GÓP Ý CHO PHƯƠNG PHÁP GIẢNG DẠY
-
+1. Bài giảng của giảng viên nên đưa ra những vấn đề trọng tâm, phù hợp với xu thế thời đại, các ví dụ bám sát thực tiễn. 
+2. Trong lớp học, giảng viên đưa các bài tập tình huống để học viên phân tích khó khăn đưa ra hướng giải quyết nhằm giúp phát huy tính tích cực, chủ động, sáng tạo và vận dụng kiến thức.
 
 ## QT11: TÌM KIẾM GOOGLE NÂNG CAO
 
