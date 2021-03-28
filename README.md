@@ -29,7 +29,9 @@ Họ tên: Lê Võ Bảo Trân - MSSV: CH2002020
 2. Trong lớp học, giảng viên đưa các bài tập tình huống để học viên phân tích khó khăn đưa ra hướng giải quyết nhằm giúp phát huy tính tích cực, chủ động, sáng tạo và vận dụng kiến thức.
 
 ## QT11: TÌM KIẾM GOOGLE NÂNG CAO
-
+Ngày nay Google là một công cụ tìm kiếm phổ biển không chỉ ở Việt Nam mà cả thế giới nói chung. Tuy nhiên, để sử dụng hiệu quả công cụ tìm kiếm này thì chúng ta cần tìm hiểu thêm một số các tính năng tìm kiếm nâng cao của Google giúp chúng ta tìm kiếm thông tin hiệu quả hơn.
+1. Tìm kiếm Cụm từ chính xác
+<img width="976" alt="Screen Shot 2020-12-03 at 22 28 27" src="https://user-images.githubusercontent.com/78150336/112752097-91c37080-8ffb-11eb-88ec-a003dc5f44be.png">
 
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 
