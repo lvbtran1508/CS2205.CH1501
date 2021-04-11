@@ -90,9 +90,6 @@ Ví dụ Tìm kiếm: site:leapcontent.vn "hướng dẫn học photoshop"
 
 Nếu bạn muốn tìm các trang web mới có nội dung tương tự với một trang web bạn đã biết, hãy sử dụng related: somesite.com. Tìm những trang liên quan để xác định những trang cùng lĩnh vực để có kế hoạch SEO như tìm hiểu cách làm, liên hệ viết bài trên mục blog để xây dựng backlink.
 
-
-
-
 **11. Một Trang Kết Nối tới Trang Khác (Page that links to another page)**
 
 Giả sử bạn muốn tìm kiếm mọi trang web trích dẫn BuzzFeed   Trên trang web của họ. Để làm điều này, sử dụng link: command, ngay sau đó là tên của một trang. Google sẽ cung cấp cho bạn tất cả các trang liên kết tới trang web chính thức của BuzzFeed. Địa chỉ URL cụ thể hơn, bạn sẽ nhận được ít kết quả hơn.
@@ -127,7 +124,7 @@ Nếu bạn đang tìm kiếm tin tức liên quan đến một vị trí cụ t
 
 Ví dụ tìm kiếm: star wars location:london
 
-**16. Tìm Loại file tài liệu cụ thể**
+**16. Tìm Loại file tài liệu cụ thể** (... filetype: ...)
 
 Nếu bạn đang tìm kiếm để tìm kết quả thuộc loại file cụ thể, bạn có thể sử dụng filetype:. Ví dụ: bạn có thể chỉ muốn tìm các bài thuyết trình PowerPoint có liên quan inbound marketing.
 
