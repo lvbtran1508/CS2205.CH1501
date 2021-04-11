@@ -109,7 +109,9 @@ Ví dụ Tìm kiếm: "inbound marketing" ~ professional
 
 Nếu bạn cần phải nhanh chóng tìm kiếm định nghĩa của từ hoặc cụm từ, chỉ cần sử dụng lệnh define: command. Bạn có thể nghe phát âm của từ bằng cách nhấn vào biểu tượng megaphone.
 
-Ví dụ Tìm kiếm: define: plethora
+Ví dụ Tìm kiếm: define: communication
+<img width="1439" alt="Screen Shot 2021-04-11 at 19 26 56" src="https://user-images.githubusercontent.com/78150336/114304168-fa324780-9afb-11eb-8aef-ea9d5b91109e.png">
+
 
 
 
@@ -137,6 +139,8 @@ Ví dụ tìm kiếm: "inbound marketing" filetype: ppt
 Bạn cần thực hiện tính toán nhanh, thay vì đưa một applet Calculator, bạn chỉ có thể nhập biểu thức của bạn vào Google.
 
 Ví dụ tìm kiếm: 30970000 * 1,05
+![Uploading Screen Shot 2021-04-11 at 19.31.16.png…]()
+
 
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
 
