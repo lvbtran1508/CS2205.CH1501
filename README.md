@@ -136,7 +136,8 @@ Ví dụ tìm kiếm: "inbound marketing" filetype: ppt
 Bạn cần thực hiện tính toán nhanh, thay vì đưa một applet Calculator, bạn chỉ có thể nhập biểu thức của bạn vào Google.
 
 Ví dụ tìm kiếm: 30970000 * 1,05
-![Uploading Screen Shot 2021-04-11 at 19.31.16.png…]()
+<img width="1440" alt="Screen Shot 2021-04-11 at 19 31 16" src="https://user-images.githubusercontent.com/78150336/125161048-3da75b00-e1aa-11eb-8cfe-904b19994740.png">
+
 
 
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
