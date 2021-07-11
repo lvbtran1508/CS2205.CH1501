@@ -180,7 +180,9 @@ Mục My library ở bên trái thanh công cụ là nơi lưu trữ những tà
 Trong đó, nút delete dùng để xóa những tài liệu bạn lưu để đọc sau nhưng cảm thấy không cần thiết nữa. Nút export  dùng để xuất citation tác giả của bài. Lưu ý trong 4 lựa chọn BibTex, EndNote, RefMan và CSV, hãy chọn CSV để xuất ra file excel. Ngoài ra, nút label để sắp xếp tài liệu được chọn vào thư mục đã tạo với tên riêng. Trong mục label, còn cung cấp create new để tạo thư mục mới và manage label để quản lý. Nút edit không được khuyến khích sử dụng do việc chỉnh sửa tên tác giả, tác phẩm hiện thị làm mất liên kết đến link tài liệu.
 
 **4. Hướng dẫn sử dụng Google Scholar (tìm kiếm)**
+
 **a. Một số mẹo tìm kiếm Google Scholar**
+
 – Chèn năm: Nếu bạn muốn tìm tài liệu xuất bản trong 1 năm cụ thể, hãy chèn năm vào kế keyword hoặc trích dẫn nguyên văn.
 Ví dụ: Security 2020 (Google Scholar sẽ hiện thị các tài liệu liên quan đến security được xuất bản trong năm 2020)
 – Sử dụng keyword thay vì câu: Nhiều tác phẩm liên quan sẽ được hiển thị hơn khi tìm kiếm bằng keyword thay vì câu
@@ -189,6 +191,7 @@ Ví dụ: Security 2020 (Google Scholar sẽ hiện thị các tài liệu liên
 – Tận dụng các công cụ Google Scholar: Điều chỉnh kết quả tìm kiếm với các thanh công cụ bên tay trái như hạn chế kết quả bằng cách giới hạn số năm tìm kiếm, sắp xếp theo trình tự thời gian (từ gần nhất đến xa) hoặc mức độ liên quan với keyword tìm kiếm.
 
 **b. Tối ưu hóa kết quả tìm kiếm trên Google Scholar**
+
 – Tìm kiếm cụm từ trích dẫn:
 + Khi muốn tìm kiếm cụm từ trích dẫn trong tài liệu, hãy sử dụng dấu ngoặc kép “…” .
 Ví dụ: “love and hate”
