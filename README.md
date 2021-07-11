@@ -109,9 +109,6 @@ Nếu bạn cần phải nhanh chóng tìm kiếm định nghĩa của từ ho�
 Ví dụ Tìm kiếm: define: communication
 <img width="1439" alt="Screen Shot 2021-04-11 at 19 26 56" src="https://user-images.githubusercontent.com/78150336/114304168-fa324780-9afb-11eb-8aef-ea9d5b91109e.png">
 
-
-
-
 **14. Thiếu Từ (Missing word)**
 
 Khi nào quên một hoặc hai từ cụm từ cụ thể, bài hát lyric, trích dẫn phim, hay cái gì khác? Bạn có thể sử dụng dấu hoa thị * làm ký tự đại diện, có thể giúp bạn tìm thấy từ thiếu trong một cụm từ.
@@ -130,7 +127,6 @@ Nếu bạn đang tìm kiếm để tìm kết quả thuộc loại file cụ th
 
 Ví dụ tìm kiếm: "inbound marketing" filetype: ppt 
 
-
 **17. Máy Tính**
 
 Bạn cần thực hiện tính toán nhanh, thay vì đưa một applet Calculator, bạn chỉ có thể nhập biểu thức của bạn vào Google.
@@ -138,9 +134,81 @@ Bạn cần thực hiện tính toán nhanh, thay vì đưa một applet Calcula
 Ví dụ tìm kiếm: 30970000 * 1,05
 <img width="1440" alt="Screen Shot 2021-04-11 at 19 31 16" src="https://user-images.githubusercontent.com/78150336/125161048-3da75b00-e1aa-11eb-8cfe-904b19994740.png">
 
-
-
 ## QT12: CÁCH SỬ DỤNG GOOGLE SCHOLAR
+**1. Định nghĩa Google Scholar**
+Google Scholar là công cụ tìm kiếm giúp người dùng truy cập miễn phí tài liệu học thuật từ nhiều lĩnh vực và các nguồn khác nhau. Google Scholar sử dụng giao diện tìm kiếm tương tự như Google, số lượng trung bình tài liệu được lưu trữ trong CSDL của Google Scholar lên đến hơn 400 triệu với nhiều thể loại như sách, tạp chí khoa học (academic journal), luận văn (dissertation, thesis),…
+
+**2. Ưu điểm và nhược điểm Google Scholar**
+**Ưu điểm**
+– Giao diện thân thiện, tương tự như Google. Dễ sử dụng hơn các CSDL;
+– Nguồn tài liệu đồ sộ;
+– Có nhiều tài liệu hiếm không thể tìm thấy ở thư viện online;
+– Cung cấp bản PDF cho 1 số tài liệu;
+– Cung cấp đầy đủ citation: số lượng tác giả đã trích nguồn này; citation dưới nhiều dạng khác nhau (APA, Harvard, MLA,…);
+– Dễ dàng tìm kiếm những tài liệu “hot” hoăc gần đây theo keyword;
+– Cung cấp link đến các cơ sở dữ liệu gốc lưu trữ bài viết;
+– Có thể lưu lại tài liệu để đọc sau.
+
+**Nhược điểm**
+– Ít chức năng tìm kiếm nâng cao: lọc theo loại tài liệu, lĩnh vực,..;
+– Không hỗ trợ đọc trước abstract hay một đoạn của tài liệu;
+– Giới hạn tài liệu full-text;
+– Thỉnh thoảng có những citation sai. Cần xem lại kỹ trước khi tái sử dụng;
+– Thuật toán xếp hạng các tài liệu được tìm kiếm của Google Scholar không rõ ràng va thay đổi sau một thời gian;
+– Có những tài liệu không được xác định rõ có phải tài liệu học thuật không?;
+– Tài liệu chứa keyword trong title sẽ được hiển thị nhiều hơn thay vì tài liệu có mật độ keyword nhiều trong bài;
+– Ảnh hưởng đến chất lượng tìm kiếm;
+– Không thể giới hạn tìm kiếm keyword trong một phần cụ thể như abstract, literature review.
+
+**3. Tìm hiểu các nút công cụ của Google Scholar**
+**a. Giao diện tìm kiếm của Google Scholar**  
+Trong giao diện tìm kiếm chính của Google Scholar; cung cấp các nút công cụ dưới kết quả tìm kiếm và các nút nằm ở thanh công cụ bên trái. Dưới các kết quả tìm kiếm; các nút công cụ bao gồm:
+<img width="1093" alt="Screen Shot 2021-07-11 at 20 03 28" src="https://user-images.githubusercontent.com/78150336/125196732-170a2280-e285-11eb-83d4-2b1d4d4daf21.png">
+
+Ở bên trái giao diện tìm kiếm chính của Google Scholar, cung cấp các nút công cụ như sau:
+<img width="1090" alt="Screen Shot 2021-07-11 at 20 22 38" src="https://user-images.githubusercontent.com/78150336/125197287-33a75a00-e287-11eb-9a90-23689d9b02a4.png">
+
+Nút create alert giúp đặt thông báo để update các tài liệu liên quan đến keyword bạn quan tâm. Sau khi nhất nút, cửa sổ dưới sẽ hiện ra và có thể điều chỉnh giới hạn hoặc tăng cường số lượng tác phẩm muốn update.
+<img width="1092" alt="Screen Shot 2021-07-11 at 20 35 46" src="https://user-images.githubusercontent.com/78150336/125197496-2179eb80-e288-11eb-9f61-25cf89f42bf5.png">
+
+Nếu muốn tìm kiếm nâng cao với keyword đã chọn, hãy sử dụng tính năng advanced search bằng cách nhấp vào nút 3 gạch bên góc trái giao diện tìm kiếm. Tính năng advanced search sẽ giúp tinh chỉnh kết quả thông qua việc tìm kiếm chính xác keyword trong cụm từ trích dẫn trong title hay cả bài mà không bao gồm các keyword liên quan khác. Ngoài ra, advanced search còn giúp giới hạn thời gian, tác giả và nhà xuất bản.
+![Screen Shot 2021-07-11 at 20 47 52](https://user-images.githubusercontent.com/78150336/125200025-2c864900-e293-11eb-8e96-d383a1cf658f.jpg)
+
+**b. My library trên Google Scholar**
+Mục My library ở bên trái thanh công cụ là nơi lưu trữ những tài liệu bạn đã bấm nút save để đọc lại sau.
+![Screen Shot 2021-07-11 at 22 02 04](https://user-images.githubusercontent.com/78150336/125200457-7b34e280-e295-11eb-8315-7fed53848af5.jpg)
+Trong đó, nút delete dùng để xóa những tài liệu bạn lưu để đọc sau nhưng cảm thấy không cần thiết nữa. Nút export  dùng để xuất citation tác giả của bài. Lưu ý trong 4 lựa chọn BibTex, EndNote, RefMan và CSV, hãy chọn CSV để xuất ra file excel. Ngoài ra, nút label để sắp xếp tài liệu được chọn vào thư mục đã tạo với tên riêng. Trong mục label, còn cung cấp create new để tạo thư mục mới và manage label để quản lý. Nút edit không được khuyến khích sử dụng do việc chỉnh sửa tên tác giả, tác phẩm hiện thị làm mất liên kết đến link tài liệu.
+
+**4. Hướng dẫn sử dụng Google Scholar (tìm kiếm)**
+**a. Một số mẹo tìm kiếm Google Scholar**
+– Chèn năm: Nếu bạn muốn tìm tài liệu xuất bản trong 1 năm cụ thể, hãy chèn năm vào kế keyword hoặc trích dẫn nguyên văn.
+Ví dụ: Security 2020 (Google Scholar sẽ hiện thị các tài liệu liên quan đến security được xuất bản trong năm 2020)
+– Sử dụng keyword thay vì câu: Nhiều tác phẩm liên quan sẽ được hiển thị hơn khi tìm kiếm bằng keyword thay vì câu
+– Tìm kiếm cụ thể với trích dẫn nguyên văn: Hãy sử dụng dấu ngoặc kép xung quanh trích dẫn nguyên văn. Nếu không, Google Scholar sẽ không hiểu việc bạn đang muốn tìm tài liệu chứa đúng trích dẫn này. Thay vào đó, Google Scholar sẽ hiển thị tài liệu chứa các các từ trong trích dẫn nguyên văn này mà không nhất thiết phải ở cạnh nhau.
+- Google Scholar không nhận diện sự khác biệt giữa chứ viết hoa và viết thường. Việc tìm kiếm “security” và “Security” không có gì khác biệt.
+– Tận dụng các công cụ Google Scholar: Điều chỉnh kết quả tìm kiếm với các thanh công cụ bên tay trái như hạn chế kết quả bằng cách giới hạn số năm tìm kiếm, sắp xếp theo trình tự thời gian (từ gần nhất đến xa) hoặc mức độ liên quan với keyword tìm kiếm.
+
+**b. Tối ưu hóa kết quả tìm kiếm trên Google Scholar**
+– Tìm kiếm cụm từ trích dẫn:
++ Khi muốn tìm kiếm cụm từ trích dẫn trong tài liệu, hãy sử dụng dấu ngoặc kép “…” .
+Ví dụ: “love and hate”
++ Kết quả tìm kiếm sẽ dẫn đến những tài liệu có cụm từ này thay vì tài liệu chứa cụm từ này trong title (tiêu đề).
+– Tìm kiếm keyword có loại trừ:
++ Sử dụng dấu – ngay trước keyword bạn muốn loại trừ khỏi kết quả tìm kiếm.
+Ví dụ: Tourism -hospitality (lưu ý không để khoảng cách giữa dấu – và keyword phía sau)
+– Tìm kiếm thêm keyword:
++ Sử dụng dấu + trước keyword bạn muốn thêm vào tìm
+Ví dụ: Tourism +hospitality (việc không để khoảng cách giữa dấu cộng và keyword không gây ảnh hưởng đến kết quả tìm kiếm như dấu – và keyword)
+– Tìm kiếm kết quả đồng thời từ 2 keyword:
++ Đây là tính năng tìm kiếm tài liệu cho đồng thời 2 keyword cùng lúc thay vì phải tìm kiếm lần lượt tìm kiếm từng keyword.
++ Thêm OR vào giữa 2 keyword và OR phải được viết hoa cả từ.
+Ví dụ: Tourism OR hospitality
+– Tìm kiếm title chứa keyword
++ Để tìm title có chứa keyword bạn muốn, hãy tìm kiếm keyword theo cú pháp sau: “intitle: …”
+Ví dụ: intitle: Tourism
+– Tìm kiếm tài liệu theo tên tác giả:
++ Sử dụng cú pháp “author: …” để tìm các tác phẩm của tác giả bạn nghiên cứu
+Ví dụ: author: Colin Firth
 
 ## QT13: SITE LƯU TRỮ BÀI BÁO KHOA HỌC
 
