@@ -213,3 +213,6 @@ Ví dụ: intitle: Tourism
 + Sử dụng cú pháp “author: …” để tìm các tác phẩm của tác giả bạn nghiên cứu
 Ví dụ: author: Colin Firth
 
+## Báo cáo cuối kỳ
+[CS2205.CH1501.RM.FinalReport.CH2002020-2.pdf](https://github.com/lvbtran1508/CS2205.CH1501/files/6873964/CS2205.CH1501.RM.FinalReport.CH2002020-2.pdf)
+
