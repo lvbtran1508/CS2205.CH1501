@@ -213,16 +213,3 @@ Ví dụ: intitle: Tourism
 + Sử dụng cú pháp “author: …” để tìm các tác phẩm của tác giả bạn nghiên cứu
 Ví dụ: author: Colin Firth
 
-## QT13: SITE LƯU TRỮ BÀI BÁO KHOA HỌC
-
-## QT14: TẠO MINDMAP LIÊN QUAN ĐẾN BÀI BÁO KHOA HỌC
-
-## QT15: SỬ DỤNG OVERLEAF
-
-## QT16: PHẦN MỀM QUẢN LÝ TÀI LIỆU THAM KHẢO VÀ TRÍCH DẪN
-
-## QT17: XẾP HẠNG HỘI NGHỊ, TẠP CHÍ
-
-## QT18: SỬ DỤNG CONNECTEDPAPERS
-
-## QT19: SỬ DỤNG PAPERSWITHCODE
